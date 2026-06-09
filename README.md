@@ -87,8 +87,8 @@ Visualization and prediction using historical stock data.
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://www.linkedin.com/in/vishal-kumar-488103383/
+- GitHub: https://github.com/vishal0-7
 
 ---
 
