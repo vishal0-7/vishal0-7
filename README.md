@@ -26,10 +26,9 @@
 
 ## 🏆 Certifications
 
-<a href="https://www.credly.com/badges/05f63f3d-2580-42e5-b62c-42f2cf2c78aa/public_url" target="_blank">
-  <img src="" width="130" alt="Microsoft Certified: Azure AI Fundamentals Badge" />
+<<a href="https://www.credly.com/badges/05f63f3d-2580-42e5-b62c-42f2cf2c78aa/public_url" target="_blank">
+  <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/linkedin_thumb_azure-ai-fundamentals-600x600.png" width="130" alt="Microsoft Certified: Azure AI Fundamentals Badge" />
 </a>
----
 
 ## 🛠️ Tech Stack
 
