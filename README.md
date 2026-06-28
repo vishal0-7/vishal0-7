@@ -47,6 +47,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+[![Microsoft Certified: Azure AI Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](YOUR_CREDENTIAL_URL)
 
 ---
 
